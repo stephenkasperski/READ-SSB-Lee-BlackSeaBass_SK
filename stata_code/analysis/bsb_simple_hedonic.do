@@ -58,7 +58,7 @@ drop _Smarket_de*
 mdesc largerQ smallerQ 
 
 
-summ priceR, detail
+sum priceR, d
 
 
 preserve
